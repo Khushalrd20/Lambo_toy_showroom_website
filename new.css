@@ -1,0 +1,12 @@
+.rightnav{
+    /*background-color: blueviolet;*/
+    width: 50%;
+    text-align: right;
+    /*padding: 0 281px;*/
+}
+#search{
+    padding: 5px;
+    font-size: 17px;
+    border: 2px solid;
+    border-radius: 9px;
+}
